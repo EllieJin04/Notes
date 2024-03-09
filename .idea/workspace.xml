@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="first commit">
+    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/GreatestCommonDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1- Java basics and OOP/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1- Java basics and OOP/Week1- Java basics and OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/Java basics and OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1- Java basics and OOP/src/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/src/IsPrime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +35,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2dT1w60ksirT1McuS5Zw3uwSJUk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -50,6 +57,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <setting name="path" value="" />
@@ -70,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710017492057</updated>
-      <workItem from="1710017495907" duration="1514000" />
+      <workItem from="1710017495907" duration="7125000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1710018045887</created>
@@ -79,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710018045887</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit">
+      <created>1710019251666</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710019251666</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +109,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -98,7 +129,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
