@@ -1,3 +1,5 @@
+package javabasics;
+
 public class IsPrime {
 
     // Brute force/enumeration

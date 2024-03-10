@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Second commit">
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/GreatestCommonDivisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="isPrime和GCD">
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1- Java basics and OOP/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1- Java basics and OOP/Week1- Java basics and OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/Java basics and OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1- Java basics and OOP/src/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/src/IsPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java basics and OOP/src/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/GreatestCommonDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java basics and OOP/src/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/IsPrime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,6 +64,13 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasics.Array" />
+      <module name="Java basics and OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <setting name="path" value="" />
       <setting name="vmparams" value="" />
@@ -73,6 +81,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Array" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710017492057</updated>
-      <workItem from="1710017495907" duration="7125000" />
+      <workItem from="1710017495907" duration="12213000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1710018045887</created>
@@ -98,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710019251666</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="isPrime和GCD">
+      <created>1710027565234</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710027565234</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +150,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+    <MESSAGE value="isPrime和GCD" />
+    <option name="LAST_COMMIT_MESSAGE" value="isPrime和GCD" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

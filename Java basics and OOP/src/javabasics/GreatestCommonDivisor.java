@@ -1,3 +1,5 @@
+package javabasics;
+
 public class GreatestCommonDivisor {
     // brute force
     // time: O(Math.min(n, m))
