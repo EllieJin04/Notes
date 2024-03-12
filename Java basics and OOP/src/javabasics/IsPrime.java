@@ -50,5 +50,25 @@ public class IsPrime {
         return true;
     }
 
+    // when x is even, return false directly
+    // update the for loop increment from i++ to i += 2
+    // time: O(sqrt(n/2)) = O(sqrt(n))
+    public static boolean isPrime5(int num) {
+        if (num <= 1 || num % 2 == 0) {
+            return false;
+        } else if (num == 2) {
+            return true;
+        }
 
+        for (int i = 3; i <= num / i; i += 2) {
+            if (num % i == 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(isPrime5(50));
+    }
 }

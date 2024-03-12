@@ -36,9 +36,31 @@ public class Array {
         return avg;
     }
 
+    public static void countArrElement() {
+        System.out.println("Please enter integers between 0 and 9 (enter -1 to end): ");
+        Scanner scanner = new Scanner(System.in);
+        int num = scanner.nextInt();
+
+        // Array 'count' stores the frequency of occurrence for each integer (0 to 9)
+        int[] count = new int[10];
+
+        // Read integers until -1 is entered, update count array accordingly
+        while (num != -1) {
+            if (num >= 0 && num <= 9) {
+                count[num]++;
+            }
+            num = scanner.nextInt();
+        }
+
+        // Display the occurrence count for each integer
+        for (int i = 0; i < count.length; i++) {
+            System.out.println("The integer " + i + " occurs " + count[i] + " times.");
+        }
+    }
+
     public static void main(String[] args) {
-        double average = avg();
-        System.out.println("The average is: " + average);
+        /*double average = avg();
+        System.out.println("The average is: " + average);*/
 
         int[] a = {1, 2, 3, 4, 5};
         // 'a' and 'b' both refer to the same array in memory, which means
@@ -46,5 +68,6 @@ public class Array {
         int[] b = a;
         System.out.println(a == b); // true
 
+        countArrElement();
     }
 }
