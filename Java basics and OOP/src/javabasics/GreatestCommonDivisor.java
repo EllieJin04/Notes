@@ -23,4 +23,9 @@ public class GreatestCommonDivisor {
         }
         return n;
     }
+
+    // recursion version of Euclidean algorithm
+    public static int gcd3(int n, int m) {
+        return m == 0 ? n : gcd3(m, n % m);
+    }
 }

@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Array first commit and oraganized the structure">
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/EratosthenesSieve.java" afterDir="false" />
+    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Seive of Eratosthenes, isPrime">
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/TwoDimensionalArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/IsPrime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EratosthenesSieve">
+  <component name="RunManager" selected="Application.Fraction">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javabasics.Array" />
       <module name="Java basics and OOP" />
@@ -73,6 +72,19 @@
     </configuration>
     <configuration name="EratosthenesSieve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javabasics.EratosthenesSieve" />
+      <module name="Java basics and OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasics.Fraction" />
       <module name="Java basics and OOP" />
       <extension name="coverage">
         <pattern>
@@ -97,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasics.TwoDimensionalArray" />
+      <module name="Java basics and OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <setting name="path" value="" />
       <setting name="vmparams" value="" />
@@ -109,6 +134,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fraction" />
+        <item itemvalue="Application.TwoDimensionalArray" />
         <item itemvalue="Application.EratosthenesSieve" />
         <item itemvalue="Application.IsPrime" />
         <item itemvalue="Application.Array" />
@@ -123,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710017492057</updated>
-      <workItem from="1710017495907" duration="20869000" />
+      <workItem from="1710017495907" duration="25512000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1710018045887</created>
@@ -153,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710111423202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Seive of Eratosthenes, isPrime">
+      <created>1710280923096</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710280923096</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Seive of Eratosthenes, isPrime">
+      <created>1710280934795</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710280934795</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +228,8 @@
     <MESSAGE value="Second commit" />
     <MESSAGE value="isPrime和GCD" />
     <MESSAGE value="Array first commit and oraganized the structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array first commit and oraganized the structure" />
+    <MESSAGE value="Seive of Eratosthenes, isPrime" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seive of Eratosthenes, isPrime" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
