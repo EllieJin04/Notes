@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Seive of Eratosthenes, isPrime">
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/Fraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/TwoDimensionalArray.java" afterDir="false" />
+    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Fraction commit">
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/clock/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/clock/Display.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java basics and OOP/javabasics/GreatestCommonDivisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java basics and OOP/javabasics/GreatestCommonDivisor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +63,16 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fraction">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.Array" />
+  <component name="RunManager" selected="Application.Clock">
+    <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasics.clock.Clock" />
       <module name="Java basics and OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabasics.clock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Clock" />
         <item itemvalue="Application.Fraction" />
         <item itemvalue="Application.TwoDimensionalArray" />
         <item itemvalue="Application.EratosthenesSieve" />
         <item itemvalue="Application.IsPrime" />
-        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +157,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710017492057</updated>
-      <workItem from="1710017495907" duration="25512000" />
+      <workItem from="1710017495907" duration="30668000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1710018045887</created>
@@ -194,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710280934795</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fraction commit">
+      <created>1710631863379</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710631863379</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +243,8 @@
     <MESSAGE value="isPrime和GCD" />
     <MESSAGE value="Array first commit and oraganized the structure" />
     <MESSAGE value="Seive of Eratosthenes, isPrime" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seive of Eratosthenes, isPrime" />
+    <MESSAGE value="Fraction commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fraction commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
