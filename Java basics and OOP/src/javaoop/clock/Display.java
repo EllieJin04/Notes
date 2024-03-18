@@ -1,4 +1,4 @@
-package javabasics.clock;
+package javaoop.clock;
 
 public class Display {
     private int value;

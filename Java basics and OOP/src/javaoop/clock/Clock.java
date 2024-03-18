@@ -1,6 +1,4 @@
-package javabasics.clock;
-
-import java.util.HashMap;
+package javaoop.clock;
 
 public class Clock {
     private Display hour;

@@ -1,4 +1,6 @@
-package javabasics;
+package javaoop;
+
+import javabasics.GreatestCommonDivisor;
 
 /*
     设计一个表示分数的类Fraction。这个类用两个int类型的变量分别表示分子和分母。
