@@ -4,18 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Clock commit">
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/castlegame/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/castlegame/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/castlegame/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/castlegame/handler/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/castlegame/handler/HandlerBye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/castlegame/handler/HandlerGo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/castlegame/handler/HandlerHelp.java" afterDir="false" />
+    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Castle Game commit">
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/cellmachine/cell/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/cellmachine/cellmachine/CellMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/cellmachine/field/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/cellmachine/field/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/animal/Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/animal/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/cell/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/field/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/field/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/field/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/foxnrabbit/FoxAndRabbit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/Fraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/Fraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/clock/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/clock/Clock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java basics and OOP/src/javabasics/clock/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/clock/Display.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/elliejin/Desktop/OneDrive/Notes/Java basics and OOP/src/javaoop/castlegame",
+    "last_opened_file_path": "/Users/elliejin/Desktop/OneDrive/Notes/Java basics and OOP/src/javaoop/cellmachine",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,20 +69,24 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="javaoop.cellmachine" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Java basics and OOP/src/javaoop/cellmachine" />
       <recent name="$PROJECT_DIR$/Java basics and OOP/src/javaoop/castlegame" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaoop.clock.Clock" />
+  <component name="RunManager" selected="Application.FoxAndRabbit">
+    <configuration name="CellMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaoop.cellmachine.cellmachine.CellMachine" />
       <module name="Java basics and OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaoop.clock.*" />
+          <option name="PATTERN" value="javaoop.cellmachine.cellmachine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaoop.Fraction" />
+    <configuration name="FoxAndRabbit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaoop.foxandrabbit.foxnrabbit.FoxAndRabbit" />
       <module name="Java basics and OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaoop.castlegame.handler.*" />
+          <option name="PATTERN" value="javaoop.foxandrabbit.foxnrabbit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.TwoDimensionalArray" />
+    <configuration name="View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaoop.cellmachine.field.View" />
       <module name="Java basics and OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaoop.castlegame.handler.*" />
+          <option name="PATTERN" value="javaoop.cellmachine.field.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FoxAndRabbit" />
+        <item itemvalue="Application.CellMachine" />
+        <item itemvalue="Application.View" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Game" />
-        <item itemvalue="Application.Clock" />
-        <item itemvalue="Application.Fraction" />
-        <item itemvalue="Application.TwoDimensionalArray" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710017492057</updated>
-      <workItem from="1710017495907" duration="49860000" />
+      <workItem from="1710017495907" duration="59572000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1710018045887</created>
@@ -226,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710716608916</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Castle Game commit">
+      <created>1710804208081</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710804208081</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +276,8 @@
     <MESSAGE value="Seive of Eratosthenes, isPrime" />
     <MESSAGE value="Fraction commit" />
     <MESSAGE value="Clock commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clock commit" />
+    <MESSAGE value="Castle Game commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Castle Game commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
