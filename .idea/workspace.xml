@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Castle Game commit">
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/cellmachine/cell/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/cellmachine/cellmachine/CellMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/cellmachine/field/Field.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/cellmachine/field/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/animal/Fox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/animal/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/cell/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/field/Field.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/field/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/field/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/foxnrabbit/FoxAndRabbit.java" afterDir="false" />
+    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Cell Machine, Fox and Rabbit simulation commit">
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/mvc/CourseTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/mvc/CourseTableData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/foxnrabbit/FoxAndRabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/foxnrabbit/FoxAndRabbit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FoxAndRabbit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaoop.foxandrabbit.foxnrabbit.FoxAndRabbit" />
+    <configuration name="CourseTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaoop.mvc.CourseTable" />
       <module name="Java basics and OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaoop.foxandrabbit.foxnrabbit.*" />
+          <option name="PATTERN" value="javaoop.mvc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaoop.castlegame.Game" />
+    <configuration name="FoxAndRabbit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaoop.foxandrabbit.foxnrabbit.FoxAndRabbit" />
       <module name="Java basics and OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaoop.castlegame.handler.*" />
+          <option name="PATTERN" value="javaoop.foxandrabbit.foxnrabbit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,10 +150,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.FoxAndRabbit" />
+        <item itemvalue="Application.CourseTable" />
         <item itemvalue="Application.CellMachine" />
         <item itemvalue="Application.View" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Game" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +165,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710017492057</updated>
-      <workItem from="1710017495907" duration="59572000" />
+      <workItem from="1710017495907" duration="64543000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1710018045887</created>
@@ -239,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710804208081</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Cell Machine, Fox and Rabbit simulation commit">
+      <created>1710888101367</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710888101367</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,7 +275,8 @@
     <MESSAGE value="Fraction commit" />
     <MESSAGE value="Clock commit" />
     <MESSAGE value="Castle Game commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Castle Game commit" />
+    <MESSAGE value="Cell Machine, Fox and Rabbit simulation commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cell Machine, Fox and Rabbit simulation commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

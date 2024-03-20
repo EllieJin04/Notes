@@ -5,8 +5,11 @@ import javaoop.foxandrabbit.cell.Cell;
 import javaoop.foxandrabbit.field.*;
 import javaoop.foxandrabbit.animal.*;
 
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.util.ArrayList;
-import javax.swing.JFrame;
+import javax.swing.*;
 
 
 public class FoxAndRabbit {
@@ -14,6 +17,8 @@ public class FoxAndRabbit {
     //成员变量
     private Field field;//Field变量，用来管理新的网格
     private View view;//继承自Jpanel的类，用来显示图形
+
+    private JFrame frame;
 
     /*------构造函数------*/
     public FoxAndRabbit(int size) {
@@ -26,7 +31,7 @@ public class FoxAndRabbit {
                 double probability = Math.random();
 
                 //随机放入狐狸
-                if(probability < 0.05) {
+                if (probability < 0.05) {
                     field.place(row, col, new Fox());
                 } //随机放入兔子
                 else if(probability < 0.15) {
@@ -38,18 +43,24 @@ public class FoxAndRabbit {
 
         /*------把theField加入到显示框------*/
         view = new View(field);
-        JFrame frame = new JFrame();
+        frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
         frame.setTitle("Fox and rabbit simulation");
         frame.add(view);
+        JButton btnStep = new JButton("Single step change");
+        btnStep.addActionListener(e -> {
+            step();
+            frame.repaint();
+        });
+        frame.add(btnStep, BorderLayout.NORTH);
         frame.pack();
         frame.setVisible(true);
     }
 
     /*------开始函数，传入的参数是程序要执行的次数------*/
     public void start(int steps) {
-        for (int i=0;i<steps;i++) {
+        for (int i = 0; i < steps; i++) {
             step();
 
             view.repaint();//Java底层函数
@@ -111,7 +122,7 @@ public class FoxAndRabbit {
 
     public static void main(String[] args) {
         FoxAndRabbit fr = new FoxAndRabbit(30);
-        fr.start(50);
+        // fr.start()
     }
 
 }
