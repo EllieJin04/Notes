@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Cell Machine, Fox and Rabbit simulation commit">
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/mvc/CourseTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/mvc/CourseTableData.java" afterDir="false" />
+    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="FoxAndRabbit和CourseTable commit">
+      <change afterPath="$PROJECT_DIR$/Java advanced/Java advanced.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/enumeration/Enumeration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/innerclass/MemberInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/innerclass/StaticInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/innerclass/anonymousinnerclass/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/innerclass/anonymousinnerclass/AnonymousInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/innerclass/anonymousinnerclass/Electronic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/innerclass/anonymousinnerclass/exercise/Bell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/innerclass/anonymousinnerclass/exercise/CellPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/innerclass/localinnerclass/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/foxnrabbit/FoxAndRabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java basics and OOP/src/javaoop/foxandrabbit/foxnrabbit/FoxAndRabbit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,6 +52,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
@@ -71,13 +81,13 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FoxAndRabbit">
-    <configuration name="CellMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaoop.cellmachine.cellmachine.CellMachine" />
-      <module name="Java basics and OOP" />
+  <component name="RunManager" selected="Application.StaticInnerClass">
+    <configuration name="AnonymousInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerclass.anonymousinnerclass.AnonymousInnerClass" />
+      <module name="Java advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaoop.cellmachine.cellmachine.*" />
+          <option name="PATTERN" value="innerclass.anonymousinnerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CourseTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaoop.mvc.CourseTable" />
-      <module name="Java basics and OOP" />
+    <configuration name="CellPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerclass.anonymousinnerclass.exercise.CellPhone" />
+      <module name="Java advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaoop.mvc.*" />
+          <option name="PATTERN" value="innerclass.anonymousinnerclass.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FoxAndRabbit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaoop.foxandrabbit.foxnrabbit.FoxAndRabbit" />
-      <module name="Java basics and OOP" />
+    <configuration name="MemberInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerclass.MemberInnerClass" />
+      <module name="Java advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaoop.foxandrabbit.foxnrabbit.*" />
+          <option name="PATTERN" value="innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaoop.castlegame.Test" />
-      <module name="Java basics and OOP" />
+    <configuration name="OuterOther" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerclass.localinnerclass.OuterOther" />
+      <module name="Java advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaoop.castlegame.handler.*" />
+          <option name="PATTERN" value="innerclass.localinnerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaoop.cellmachine.field.View" />
-      <module name="Java basics and OOP" />
+    <configuration name="StaticInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerclass.StaticInnerClass" />
+      <module name="Java advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaoop.cellmachine.field.*" />
+          <option name="PATTERN" value="innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FoxAndRabbit" />
-        <item itemvalue="Application.CourseTable" />
-        <item itemvalue="Application.CellMachine" />
-        <item itemvalue="Application.View" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.StaticInnerClass" />
+        <item itemvalue="Application.MemberInnerClass" />
+        <item itemvalue="Application.CellPhone" />
+        <item itemvalue="Application.AnonymousInnerClass" />
+        <item itemvalue="Application.OuterOther" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710017492057</updated>
-      <workItem from="1710017495907" duration="64543000" />
+      <workItem from="1710017495907" duration="72990000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1710018045887</created>
@@ -237,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710888101367</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="FoxAndRabbit和CourseTable commit">
+      <created>1710979121536</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710979121536</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,7 +293,8 @@
     <MESSAGE value="Clock commit" />
     <MESSAGE value="Castle Game commit" />
     <MESSAGE value="Cell Machine, Fox and Rabbit simulation commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cell Machine, Fox and Rabbit simulation commit" />
+    <MESSAGE value="FoxAndRabbit和CourseTable commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="FoxAndRabbit和CourseTable commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
