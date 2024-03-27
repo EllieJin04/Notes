@@ -3,10 +3,7 @@ package collection.homework;
 import java.util.HashSet;
 import java.util.Objects;
 
-/**
- * @author 韩顺平
- * @version 1.0
- */
+
 @SuppressWarnings({"all"})
 public class Homework06 {
     public static void main(String[] args) {
