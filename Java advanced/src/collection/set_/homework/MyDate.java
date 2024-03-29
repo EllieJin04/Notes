@@ -3,7 +3,7 @@ package collection.set_.homework;
 import java.util.Date;
 import java.util.Objects;
 
-public class MyDate {
+public class MyDate implements Comparable<MyDate> {
     private int year;
 
     private int month;
@@ -55,10 +55,11 @@ public class MyDate {
 
     @Override
     public String toString() {
-        return "MyDate{" +
-                "year=" + year +
-                ", month=" + month +
-                ", day=" + day +
-                '}';
+        return year + "." + month + "." + day;
+    }
+
+    @Override
+    public int compareTo(MyDate o) {
+        return year - o.year == 0 ? (month - o.month == 0 ? day - o.day : month - o.month) : year - o.year;
     }
 }

@@ -4,33 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Java advanced commit">
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/collection/Collection.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/collection/Map.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/GenericExtends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/customgeneric/CustomGeneric_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/customgeneric/CustomInterfaceGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/customgeneric/CustomMethodGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/customgeneric/CustomMethodGenericExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/generic/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/generic/Generic01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/generic/Generic03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/generic/GenericDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/generic/GenericExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/generic/GenericExercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/generic/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/generic/improve/Generic02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/homework/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/homework/Homework01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/homework/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/generic/junit_/JUnit_.java" afterDir="false" />
+    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Generic commit">
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/Boolean.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/Byte.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/Character.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/arrays_/ArrayExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/arrays_/ArraysMethod01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/arrays_/ArraysMethod02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/arrays_/ArraysSortCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/bignum/BigDecimal_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/bignum/BigInteger_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/date_/Calendar_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/date_/Date01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/date_/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/date_/Instant_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/date_/LocalDate_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Homework03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Homework04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Homework05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/java/util/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/math_/MathMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/String01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringMethod01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringMethod02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringUML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuffer_/StringAndStringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuffer_/StringBuffer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuffer_/StringBuffer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuffer_/StringBufferExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuffer_/StringBufferExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuffer_/StringBufferMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuilder_/StringBuilder01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuilder_/StringVsStringBufferVsStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/system_/System_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/Integer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/WrapperExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/WrapperExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/WrapperExercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/WrapperMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/WrapperType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/WrapperVSString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java advanced/src/collection/homework/Homework01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java advanced/src/collection/homework/Homework01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java advanced/src/collection/homework/Homework03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java advanced/src/collection/homework/Homework03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java advanced/src/collection/homework/Homework04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java advanced/src/collection/homework/Homework04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java advanced/src/collection/homework/Homework05.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java advanced/src/collection/homework/Homework05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java advanced/src/collection/homework/Homework06.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java advanced/src/collection/homework/Homework06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java advanced/src/collection/set_/homework/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java advanced/src/collection/set_/homework/MyDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java advanced/src/collection/set_/homework/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java advanced/src/collection/set_/homework/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Homework03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Homework03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Homework04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Homework04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Homework06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Homework06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/collection/set_/homework/MyDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/collection/set_/homework/MyDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/collection/set_/homework/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/collection/set_/homework/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +105,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/elliejin/Desktop/OneDrive/Notes/Java advanced/src/generic",
+    "last_opened_file_path": "/Users/elliejin/Desktop/OneDrive/Notes/Java advanced/src/commonly_used_class",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,23 +123,23 @@
       <recent name="javaoop.cellmachine" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Java advanced/src/commonly_used_class" />
       <recent name="$PROJECT_DIR$/Java advanced/src/generic" />
       <recent name="$PROJECT_DIR$/Java advanced/src/collection/homework" />
       <recent name="$PROJECT_DIR$/Java advanced/src/collection" />
       <recent name="$PROJECT_DIR$/Java advanced/src/collection/list" />
-      <recent name="$PROJECT_DIR$/Java advanced/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Homework01">
-    <configuration name="Enumeration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.Enumeration" />
+  <component name="RunManager" selected="Application.ArrayExercise">
+    <configuration name="ArrayExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="commonly_used_class.arrays_.ArrayExercise" />
       <module name="Java advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.*" />
+          <option name="PATTERN" value="commonly_used_class.arrays_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework01" />
+        <item itemvalue="Application.ArrayExercise" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Homework01" />
         <item itemvalue="Application.Homework04" />
         <item itemvalue="Application.ListExercise02" />
-        <item itemvalue="Application.Enumeration" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +227,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710017492057</updated>
-      <workItem from="1710017495907" duration="89187000" />
+      <workItem from="1710017495907" duration="96591000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1710018045887</created>
@@ -289,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711552520523</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Generic commit">
+      <created>1711579992963</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711579992963</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +369,8 @@
     <MESSAGE value="FoxAndRabbit和CourseTable commit" />
     <MESSAGE value="Inner class and Enumeration commit" />
     <MESSAGE value="Java advanced commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java advanced commit" />
+    <MESSAGE value="Generic commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
