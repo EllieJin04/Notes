@@ -4,64 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Generic commit">
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/Boolean.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/Byte.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/Character.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/arrays_/ArrayExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/arrays_/ArraysMethod01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/arrays_/ArraysMethod02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/arrays_/ArraysSortCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/bignum/BigDecimal_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/bignum/BigInteger_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/date_/Calendar_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/date_/Date01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/date_/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/date_/Instant_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/date_/LocalDate_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Homework01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Homework02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Homework03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Homework04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Homework05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/java/util/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/math_/MathMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/String01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringExercise10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringMethod01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringMethod02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/string_/StringUML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuffer_/StringAndStringBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuffer_/StringBuffer01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuffer_/StringBuffer02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuffer_/StringBufferExercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuffer_/StringBufferExercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuffer_/StringBufferMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuilder_/StringBuilder01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/stringbuilder_/StringVsStringBufferVsStringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/system_/System_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/Integer01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/WrapperExercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/WrapperExercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/WrapperExercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/WrapperMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/WrapperType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/wrapper/WrapperVSString.java" afterDir="false" />
+    <list default="true" id="a893bb04-58ad-46ac-897b-ebd3b3e97ba5" name="Changes" comment="Commonly used class commit">
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/codeblock_/CodeBlock01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/codeblock_/CodeBlockDetail01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/codeblock_/CodeBlockDetail02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/codeblock_/CodeBlockDetail03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/codeblock_/CodeBlockDetail04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/codeblock_/CodeBlockExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/codeblock_/CodeBlockExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/FormatName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/enumeration/EnumDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/enumeration/EnumExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/enumeration/EnumExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/enumeration/EnumMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/enumeration/Enumeration01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/enumeration/Enumeration02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/enumeration/Enumeration03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/final_/Final01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/final_/FinalDetail01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/final_/FinalDetail02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/final_/FinalExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/final_/FinalExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/draw/DrawCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/event_/BallMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/mytankgame/EnemyTank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/mytankgame/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/mytankgame/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/mytankgame/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/mytankgame/TankGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/tankgame/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/tankgame/HspTankGame01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/tankgame/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/tankgame/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/tankgame2/EnemyTank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/tankgame2/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/tankgame2/HspTankGame02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/tankgame2/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/tankgame2/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/singletonpattern/SingleTon01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/singletonpattern/SingleTon02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/static_/ChildGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/static_/StaticDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/static_/StaticExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/static_/StaticExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/static_/StaticExercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/static_/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/static_/StaticMethodDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/static_/VisitStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/CpuNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/exit_/ThreadExit_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/homework/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/homework/Homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/method/ThreadMethod01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/method/ThreadMethod02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/method/ThreadMethod03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/method/ThreadMethodExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/state_/ThreadState_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/syn/DeadLock_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/syn/SellTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/threaduse/Thread01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/threaduse/Thread02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/threaduse/Thread03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java advanced/src/thread/ticket/SellTicket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java advanced/src/collection/set_/homework/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java advanced/src/collection/set_/homework/MyDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java advanced/src/collection/set_/homework/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java advanced/src/collection/set_/homework/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Homework03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Homework03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Homework04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Homework04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Homework06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Homework06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/collection/homework/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/collection/set_/homework/MyDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/collection/set_/homework/MyDate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/collection/set_/homework/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/collection/set_/homework/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Homework04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java advanced/src/commonly_used_class/homework/Homework04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java advanced/src/enumeration/Enumeration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/enumeration/Enumeration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/enumeration/Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java advanced/enumeration/Season.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java advanced/enumeration/Season.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +117,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/elliejin/Desktop/OneDrive/Notes/Java advanced/src/commonly_used_class",
+    "last_opened_file_path": "/Users/elliejin/Desktop/OneDrive/Notes/Java advanced/src/thread",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -123,36 +135,23 @@
       <recent name="javaoop.cellmachine" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Java advanced/src/commonly_used_class" />
-      <recent name="$PROJECT_DIR$/Java advanced/src/generic" />
-      <recent name="$PROJECT_DIR$/Java advanced/src/collection/homework" />
-      <recent name="$PROJECT_DIR$/Java advanced/src/collection" />
-      <recent name="$PROJECT_DIR$/Java advanced/src/collection/list" />
+      <recent name="$PROJECT_DIR$/Java advanced/src/thread" />
+      <recent name="$PROJECT_DIR$/out/production/Java advanced" />
+      <recent name="$PROJECT_DIR$/out/production" />
+      <recent name="$PROJECT_DIR$/Java advanced/src/graphics_tankgame/draw" />
+      <recent name="$PROJECT_DIR$/out/production/Java advanced/graphics_tankgame" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayExercise">
-    <configuration name="ArrayExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="commonly_used_class.arrays_.ArrayExercise" />
-      <module name="Java advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="commonly_used_class.arrays_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Homework02">
     <configuration name="Homework01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.homework.Homework01" />
+      <option name="MAIN_CLASS_NAME" value="thread.homework.Homework01" />
       <module name="Java advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.homework.Animal" />
+          <option name="PATTERN" value="thread.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.homework.Homework04" />
+    <configuration name="Homework02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.homework.Homework02" />
       <module name="Java advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.homework.Animal" />
+          <option name="PATTERN" value="thread.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListExercise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.list.ListExercise02" />
+    <configuration name="HspTankGame01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graphics_tankgame.tankgame.HspTankGame01" />
       <module name="Java advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.list.*" />
+          <option name="PATTERN" value="graphics_tankgame.tankgame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +185,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.set_.homework.Test" />
+    <configuration name="HspTankGame02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graphics_tankgame.tankgame2.HspTankGame02" />
       <module name="Java advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.set_.homework.*" />
+          <option name="PATTERN" value="graphics_tankgame.tankgame2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TankGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graphics_tankgame.mytankgame.TankGame" />
+      <module name="Java advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graphics_tankgame.mytankgame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayExercise" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Homework02" />
         <item itemvalue="Application.Homework01" />
-        <item itemvalue="Application.Homework04" />
-        <item itemvalue="Application.ListExercise02" />
+        <item itemvalue="Application.TankGame" />
+        <item itemvalue="Application.HspTankGame02" />
+        <item itemvalue="Application.HspTankGame01" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +239,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710017492057</updated>
-      <workItem from="1710017495907" duration="96591000" />
+      <workItem from="1710017495907" duration="125609000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1710018045887</created>
@@ -327,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711579992963</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commonly used class commit">
+      <created>1711678332746</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711678332746</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,7 +389,18 @@
     <MESSAGE value="Inner class and Enumeration commit" />
     <MESSAGE value="Java advanced commit" />
     <MESSAGE value="Generic commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic commit" />
+    <MESSAGE value="Commonly used class commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commonly used class commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

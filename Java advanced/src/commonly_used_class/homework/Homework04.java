@@ -29,11 +29,20 @@ public class Homework04 {
         int upperCount = 0;
         int otherCount = 0;
         for (int i = 0; i < strLen; i++) {
-            if(str.charAt(i) >= '0' && str.charAt(i) <= '9') {
+//            if(str.charAt(i) >= '0' && str.charAt(i) <= '9') {
+//                numCount++;
+//            } else if(str.charAt(i) >= 'a' && str.charAt(i) <= 'z') {
+//                lowerCount++;
+//            } else if(str.charAt(i) >= 'A' && str.charAt(i) <= 'Z') {
+//                upperCount++;
+//            } else {
+//                otherCount++;
+//            }
+            if (Character.isDigit(str.charAt(i))) {
                 numCount++;
-            } else if(str.charAt(i) >= 'a' && str.charAt(i) <= 'z') {
+            } else if (Character.isLowerCase(str.charAt(i))) {
                 lowerCount++;
-            } else if(str.charAt(i) >= 'A' && str.charAt(i) <= 'Z') {
+            } else if (Character.isUpperCase(str.charAt(i))) {
                 upperCount++;
             } else {
                 otherCount++;
